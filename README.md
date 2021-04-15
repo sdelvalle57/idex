@@ -19,6 +19,6 @@ $ node index.js
 ### Notes
 * Using Node version 10.21.0
 * Contracts are compiled and deployed using Truffle
-* Deployed contract adddress on rinkeby: 0x0D4119043f255B7550a77cC2CDc653433Fa318c0
+* Deployed contract adddress on rinkeby: 0xccA89a21CB333D0d8fAb9e49bC5C821F68e546E5
 * Solidity File is located in `src/ethereum/contracts/ERC20WithString.sol`
 * Compiled JSON files are in `src/ethereum/build/contracts`
