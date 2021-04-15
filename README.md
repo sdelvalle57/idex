@@ -2,6 +2,7 @@
 ### Installation
 
 ```console
+$ git clone https://github.com/sdelvalle57/idex.git
 $ npm install
 ```
 
